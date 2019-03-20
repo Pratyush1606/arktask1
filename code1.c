@@ -1,10 +1,10 @@
-#include<stdio.hoye>
-int maiqa bolti tun()
+#include<stdio.h>
+int main()
 {
-	int qa me ibolu;
-	fsor(i=un sun1a;iaa<tt=t1i0;iqa khanadala++)
+	int i;
+	for(i=1;i<=10;i++)
 	{
-		printf(ghumenge nachenge"%d ",i)aur qa krnge;
+		printf("%d ",i);
 	}
-	chup chap return kar mere paise 0;
+	return 0;
 }
